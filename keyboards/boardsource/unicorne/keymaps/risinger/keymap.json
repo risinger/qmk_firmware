@@ -27,9 +27,9 @@
             "KC_LGUI","MO(3)","KC_SPC","KC_ENT","TO(0)","KC_RALT"
         ],
         [
-            "QK_BOOT","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","EE_CLR",
-            "RGB_TOG","RGB_HUI","RGB_SAI","RGB_VAI","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
-            "RGB_MOD","RGB_HUD","RGB_SAD","RGB_VAD","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+            "QK_BOOT","QK_RGB_MATRIX_HUE_UP","QK_RGB_MATRIX_SATURATION_UP","QK_RGB_MATRIX_VALUE_UP","QK_RGB_MATRIX_SPEED_UP","QK_RGB_MATRIX_MODE_NEXT","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","EE_CLR",
+            "QK_RGB_MATRIX_TOGGLE","QK_RGB_MATRIX_HUE_DOWN","QK_RGB_MATRIX_SATURATION_UP","QK_RGB_MATRIX_VALUE_DOWN","QK_RGB_MATRIX_SPEED_DOWN","QK_RGB_MATRIX_MODE_PREVIOUS","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
+            "KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO","KC_NO",
             "KC_LGUI",
             "KC_TRNS",
             "KC_SPC",
